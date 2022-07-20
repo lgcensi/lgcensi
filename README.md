@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning code.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate with colleagues
-- 📫 How to reach me [...](https://www.linkedin.com/in/lucascensi/)
+- 📫 To reach me, [click here](https://www.linkedin.com/in/lucascensi/)
 
 I have a degree in Law from the Federal University of Santa Catarina and I have been working as an independent lawyer for 8 years. 
 Today I am on a career migration to the programming area.
